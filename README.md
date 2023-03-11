@@ -14,5 +14,5 @@ in this csv exist:
  
  
  it is all automated, to extract the data any day in the future
- 
+ the information recopilated is on data 
  
